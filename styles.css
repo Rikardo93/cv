@@ -1,0 +1,22 @@
+body {
+  background-color: #edcfa9;
+}
+
+h1 {
+  color:#66bfbf;
+  text-shadow: 2px 2px 5px red;
+}
+h3 {
+  color:#66bfbf;
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px yellow;
+}
+p.lowercase {
+  text-transform: lowercase;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 1.7%;
